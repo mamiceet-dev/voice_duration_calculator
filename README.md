@@ -1,10 +1,14 @@
-# Audio Duration Calculator Suite
+# 🎵 Audio Duration Calculator Suite
+
+![Python](https://img.shields.io/badge/python-3.6+-blue.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Platform](https://img.shields.io/badge/platform-windows%20%7C%20linux%20%7C%20macos-lightgrey)
 
 A collection of Python scripts to calculate the total duration of audio files in various formats.
 
 ---
 
-# Ses Dosyası Süre Hesaplayıcı Paketi
+# 🎵 Ses Dosyası Süre Hesaplayıcı Paketi
 
 Çeşitli formatlardaki ses dosyalarının toplam süresini hesaplayan Python scriptleri koleksiyonu.
 
