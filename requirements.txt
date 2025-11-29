@@ -1,0 +1,6 @@
+# Required packages for audio duration calculators
+
+# For MP3 and general audio format support (audio_duration_calculator.py, mp3_duration_calculator.py)
+mutagen>=1.45.0
+
+# Note: GSM and WAV calculators use only Python standard library and don't require external packages
